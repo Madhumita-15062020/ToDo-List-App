@@ -5,7 +5,7 @@ A simple Todo List app built with React.
 
 1. Clone the repository
 
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Madhumita-15062020/ToDo-List-App.git
 
    cd todo-app
 
